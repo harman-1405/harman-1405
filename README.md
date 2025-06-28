@@ -2,8 +2,8 @@
 
 Welcome to my corner of GitHub! ✨
 
-- 🎓 Currently a [your year] B.Tech student at IGDTUW, Delhi
-- 🔍 Interested in Data Structures and Algorithms, MERN Stack Web Development
+- 🎓 Penultimate year B.Tech. student in Electronics and Communication Engineering with a specialization in Artificial Intelligence at IGDTUW, Delhi.
+- 🔍 Love solving problems with DSA | Building cool stuff using the MERN stack
 - 🌱 Always learning and growing
 - 💬 Let's connect and collaborate!
 
