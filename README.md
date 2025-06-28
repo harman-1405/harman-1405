@@ -9,7 +9,7 @@ Welcome to my corner of GitHub! ✨
 
 📫 **Connect with me**:  
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/harman-1405)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/harman-kaur-86607728a/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harman-kaur-86607728a/)
 
 ---
 
